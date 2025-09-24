@@ -1,0 +1,9 @@
+---
+title: "Jenna's R Website"
+---
+ 
+I'm Jenna Thai and I am a nutrition student.
+
+[GitHub link](https://github.com/jnthai)
+[LinkedIn link](https://www.linkedin.com/in/jthain45/)
+
