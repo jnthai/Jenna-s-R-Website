@@ -1,0 +1,7 @@
+name: "Jennas R Website"
+output_dir: "."
+
+output:
+  html_document:
+    theme: flatly
+    tot: true
